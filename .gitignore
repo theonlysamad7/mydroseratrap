@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+
+# Ignore Foundry build artifacts
+out/
+cache/
+
+# Ignore Node.js stuff (if you ever add npm tooling)
+node_modules/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
